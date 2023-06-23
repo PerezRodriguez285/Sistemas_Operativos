@@ -5,10 +5,6 @@
  */
 package metroos;
 
-/**
- *
- * @author ricar
- */
 class Pagina {
     private Integer idProceso;
     private String nombreProceso;
